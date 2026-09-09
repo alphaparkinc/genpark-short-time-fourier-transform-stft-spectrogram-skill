@@ -1,0 +1,17 @@
+{
+  "name": "genpark-short-time-fourier-transform-stft-spectrogram-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Short-Time Fourier Transform (STFT) Time-Frequency Spectrogram Engine with Windowing",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "signal-processing",
+    "stft",
+    "spectrogram",
+    "time-frequency-analysis"
+  ]
+}
